@@ -1,1 +1,8 @@
-console.log("sup?")
+class MyQueue {
+    constructor(queue=[]){
+        this.queue = queue
+    }
+    whateva(){
+
+    }
+}
